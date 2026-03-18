@@ -1,0 +1,40 @@
+/* Change page background */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+/* Style for heading */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Style for paragraph */
+p {
+    color: black;
+    font-size: 18px;
+}
+
+/* Style for button */
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.card{
+    background-color: brown;
+    border-radius: 10px;
+    margin:20px;
+    padding: 20px;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 15px 40px;
+}
+
